@@ -4,7 +4,7 @@ package utils
 
 import (
 	"github.com/golang/glog"
-	"github.com/lihp1603/scribe"
+	"github.com/psdshow/scribe"
 	"runtime"
 	"strconv"
 	"strings"
